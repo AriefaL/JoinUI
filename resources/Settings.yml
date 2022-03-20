@@ -1,0 +1,17 @@
+---
+# Don't touch here!!
+Version: 1
+
+# Setting for Show UI
+Show-UI: true
+
+# Edit form here
+Form:
+  Title: "&lWELCOME SERVER NAME"
+  Content:
+    - "Line 1"
+    - "Line 2"
+    - "Line 3"
+  Button-value: true
+  Button-format: ["text button", -1, "url"]
+...
